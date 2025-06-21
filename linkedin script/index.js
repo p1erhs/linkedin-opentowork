@@ -2,7 +2,7 @@
   const config = {
     // Fallback comment text if the author's name is not found.
     commentText: "Good luck with your job search! Feel free to try using Loopcv.",
-    myName: "George Lamdus",
+    myName: "putyourlinkedinnamehere",
     maxPosts: 100,
     minDelayBetweenPosts: 45000,  // 45 seconds
     maxDelayBetweenPosts: 90000,  // 90 seconds
